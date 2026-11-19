@@ -97,3 +97,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# v1 build note: forecast entry written fresh in-session; starter baseline kept for reference only.
